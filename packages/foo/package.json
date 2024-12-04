@@ -14,7 +14,7 @@
     "name": "foo",
     "targets": {
       "test": {
-        "command": "echo starting && sleep 420 && echo done"
+        "command": "echo starting && sleep 210 && echo done"
       }
     }
   }
